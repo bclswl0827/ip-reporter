@@ -2,6 +2,6 @@
     "timeout": 5,
     "interval": 5,
     "ip_prefix": "10.160",
-    "device_tag": "flycat-sdr",
-    "report_uri": "http://127.0.0.1:8000/collect"
+    "device_tag": "test-device",
+    "report_uri": "http://1.2.3.4:8000/collect"
 }
