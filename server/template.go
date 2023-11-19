@@ -4,6 +4,7 @@ const INDEX_HTML = `
 <!DOCTYPE html>
 <html lang="zh-CN">
     <head>
+        <meta name="viewport" content="width=device-width, user-scalable=no" />
         <meta charset="utf-8" />
         <title>设备 IP 记录</title>
     </head>
